@@ -10,7 +10,31 @@
 
 The Obsidianomicon can be used in two ways.
 
-1. Download the [WITCHFINDER'S TOMB
+1. Download the [WITCHFINDER'S TOMB](dlvault).[^0]
+2. Read and learn.
+
+
+## THE ETHICS AND PREMISE
+
+0. writing shouldn't have to suck on mobile and we are going to make that statement true
+1. If we can implement a feature ourselves, we do.
+2. If we install a plugin, it better be completely necessary to functionality.[^2]
+
+## OS Diversion
+
+> [!note]
+> **CHOOSE YOUR PATH**
+>
+> 
+> | The Good Ending | The Bad Ending|
+> |--|--|
+> [IPAD & IOS][patha] |[ANDROID][pathb]|
+
+
+
+-----
+
+# iOS Route
 
 ## Recommendations 
 
@@ -30,10 +54,9 @@ This repo is also my thank you doc to Jamie, where I have shown what can be done
 |<button style="border: 1px solid #feffad;"><div align="center">[ 𝕂 ][linkKB]</div></button>|
 
 
-## THE PLAN
+# Android Route
 
-1. If we can implement a feature ourselves, we do.
-2. If we install a plugin, it better be completely necessary to functionality.[^2]
+
 
 
 
@@ -44,6 +67,8 @@ This repo is also my thank you doc to Jamie, where I have shown what can be done
 
 
 <!-- REFERENCE LINKS -->
+[patha]: <https://github.com/iiviigames/Obisidianomicon/edit/main/README.md#ios-route> "The True End"
+[pathb]: <https://github.com/iiviigames/Obisidianomicon/edit/main/README.md#android-route> "The Bad End"
 [pdoom]: <https://en.wikipedia.org/wiki/P(doom)> "Don't use AI unethically and support humanity!"
 [linkCK]: <./KEYBOARDS/CKEY/README.md> "ℂ Key Docs"
 [linkKB]: <./KEYBOARDS/KEYBUILD/README.md> "Keybuild Docs"
@@ -51,5 +76,6 @@ This repo is also my thank you doc to Jamie, where I have shown what can be done
 
 <a name="fn"></a>
 <!-- FOOTNOTE LINKS -->
+[^0]: The vault aint uploaded yet.
 [^1]: Jamie if you ever see this, I would love to show you the amount of effort I put into fixing some incredibly vicious bugs in key build, and I did it all by having to reverse engineer your specification, and without any access to documentation of any kind. That experience made me an incredibly more confident programmer, and on top of it all I'm very grateful for the level of customization that key build aloud although C key was kind of the better application in many regards.. You have been sorely overlooked in the App Store and I will proselytize your good name for as long as I can because writing 2 million words on an iPad was only possible because you gave me the application to prevent myself from getting carpal tunnel. I seriously love you, man.
 [^2]: this vault is meant to completely minimize the dependency on extraneous nonsense. We are going to make this perfect using only excellently designed third-party plug-ins and our own hard-working ethic. This also means that if an AI had any hand in creating it., it will not be included in this project. Without a concerted effort to stop using AI assisted applications we will all be dead by the year 2100. See [p<sup>DOOM</sup>][pdoom]
