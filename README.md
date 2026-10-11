@@ -56,7 +56,7 @@ This repo is also my thank you doc to Jamie, where I have shown what can be done
 
 # Android Route
 
-
+Follow the [Android Docs](./OS/ANDROID/README.md).
 
 
 
@@ -67,8 +67,8 @@ This repo is also my thank you doc to Jamie, where I have shown what can be done
 
 
 <!-- REFERENCE LINKS -->
-[patha]: <https://github.com/iiviigames/Obisidianomicon/edit/main/README.md#ios-route> "The True End"
-[pathb]: <https://github.com/iiviigames/Obisidianomicon/edit/main/README.md#android-route> "The Bad End"
+[patha]: <https://github.com/iiviigames/Obisidianomicon#ios-route> "The True End"
+[pathb]: <https://github.com/iiviigames/Obisidianomicon#android-route> "The Bad End"
 [pdoom]: <https://en.wikipedia.org/wiki/P(doom)> "Don't use AI unethically and support humanity!"
 [linkCK]: <./KEYBOARDS/CKEY/README.md> "ℂ Key Docs"
 [linkKB]: <./KEYBOARDS/KEYBUILD/README.md> "Keybuild Docs"
